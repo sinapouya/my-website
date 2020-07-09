@@ -1,5 +1,3 @@
 # my-website
 
-i edited file
-
-edit on example branch
+now edit by update-readme branch
